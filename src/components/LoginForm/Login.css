@@ -1,0 +1,18 @@
+
+.login-container {
+    background-color: white;
+    /* background-image: url(cookies.jpg); */
+    background-size: 100vw;
+    width: 20rem;
+    height: 29rem;
+    /* height: 75vh; */
+    border-radius: 10px;
+}
+
+.heading {
+    text-align: center;
+    /* background-color: blueviolet; */
+    /* background-image: url(dynamic\ liquid\ gradient.jpg); */
+    margin-top: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

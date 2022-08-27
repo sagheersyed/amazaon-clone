@@ -1,0 +1,9 @@
+.container-flexing {
+    display: flex;
+    align-items: center;
+    /* padding-right: 10px; */
+}
+
+.country-flag {
+    padding-right: 10px;
+}

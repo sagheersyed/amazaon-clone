@@ -1,0 +1,11 @@
+.container{
+    background-color: #03a9f4;
+    /* margin: 20px; */
+    padding: 10px;
+    padding-left: 50px;
+    display: flex;
+    /* flex-wrap: wrap; */
+    line-height: 1.6rem;
+    min-width: 100rem;
+
+}

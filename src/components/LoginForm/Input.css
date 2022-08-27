@@ -1,0 +1,64 @@
+.input-container {
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* align-items: center; */
+    /* line-height: 14px; */
+    /* height: 70vh; */
+    /* width: 31.2vw; */
+}
+
+.input {
+    margin-top: 30px;  
+    /* color: none; */
+}
+
+.input input {
+    border: none;
+    height: 25px;
+    width: 230px; 
+}
+
+.input input:focus {
+    outline: none;
+}
+
+.forget-info {
+    /* background-color: black; */
+    display: flex;
+    justify-content: flex-end;
+    width: 16rem;
+    margin-right: 2rem;
+    margin-top: 10px;
+    color: rgb(168, 166, 162);
+}
+
+
+.heading-3{
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    background-image: url(dynamic\ liquid\ gradient.jpg);
+    background-size: 18rem;
+    margin-top: 40px;
+    width: 18rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 40px;
+    color: white;
+    font-size: 18px;
+    
+}
+
+.button:hover {
+    cursor: pointer;
+}
+

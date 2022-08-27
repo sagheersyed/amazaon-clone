@@ -1,0 +1,27 @@
+
+.card-container {
+    background-color: rgb(255, 255, 255);
+    border-radius: 1rem;
+    /* border: 0.1rem solid black; */
+    min-width: 17rem;
+    max-width: 10vw;
+    color: #505457;
+    height: 7.8rem;
+    margin: 10px;
+    /* margin-right: 20px; */
+    padding: 10px;
+    box-shadow:  2px 2px 2px 1px rgba(78, 133, 165, 0.1);
+    /* flex-wrap: wrap; */
+}
+
+.details {
+    font-size: 15 ; 
+    font-weight : 500 ;
+    padding-right : 5px;
+    line-height: 20px;
+}
+
+.weight {
+    font-weight: 700;
+}
+

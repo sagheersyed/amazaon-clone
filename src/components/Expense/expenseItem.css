@@ -1,0 +1,64 @@
+.main-container {
+    background-color: rgb(92, 92, 99);
+    padding: 10px;
+    border-radius: 10px;
+}
+.expense-container {
+    background-color: rgb(130, 136, 136);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    /* height: 130px; */
+    width: 850px;
+}
+
+.expense-block {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    /* padding-right: 30px; */
+}
+
+.expense-date {
+    background-color: black;
+    /* display: flex; */
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+
+.expense-title {
+    color: white;
+    font-size: 25px;
+    font-display: inherit;
+    margin-left: 20px;
+}
+
+.amount-block {
+    background-color: blueviolet;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px whitesmoke solid;
+    margin-right: 15px;
+    padding: 10px;
+}
+
+.expense-amount {
+    color: white;
+    font-size: 15px;
+    font-display: inherit;
+    font-weight: bold;
+    text-align: center;
+    /* padding: 10px; */
+}
+
+.f-family {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
